@@ -111,3 +111,13 @@ In Fact the author of this test himself has described, why this test is still re
 [Toy Robot Coding Puzzle](https://joneaves.wordpress.com/2014/07/21/toy-robot-coding-test/)
 
 All the very best !!!
+
+### To run the application:
+1. go to toy folder
+2. bundle install
+3. run command 'ruby app/launcher.rb'
+4. type in 'station' to exit application
+
+Notes:
+1. test data is in spec/text_data.txt
+2. requires ruby version is 2.6.5
